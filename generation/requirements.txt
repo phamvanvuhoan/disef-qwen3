@@ -1,0 +1,6 @@
+diffusers==0.17.1
+open_clip_torch
+tqdm
+transformers
+accelerate
+sentence-transformers[image]

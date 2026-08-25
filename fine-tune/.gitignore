@@ -1,0 +1,6 @@
+./artifacts/
+./configs/
+./data/
+./scripts/
+./slurm_scripts/
+./src/
